@@ -6,7 +6,7 @@
 - 💄💓Ela/Dela;
 
   <div>
-    <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+    <img align="right" width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   </div>
  <div>
  <a href="https://github.com/DevRobertaPaes">
@@ -33,7 +33,7 @@
     
 </a>
 <div>
- <img align="right" width="30%" src="https://github.com/DevRobertaPaes/robertapaes/assets/165825219/f4254125-5099-4ccd-9e58-8c7627273360">
+ <img align="center" width="30%" src="https://github.com/DevRobertaPaes/robertapaes/assets/165825219/f4254125-5099-4ccd-9e58-8c7627273360">
 
 </div>
 
