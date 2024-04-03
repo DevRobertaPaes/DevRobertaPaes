@@ -5,7 +5,9 @@
 - 👩‍💻 Estudando e Trabalhando Home-Office;
 - 💄💓Ela/Dela;
 
-  
+  <div>
+    <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
+  </div>
  <div>
  <a href="https://github.com/DevRobertaPaes">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevRobertaPaes&show_icons=true=&theme=dark&include_all_commits=true&count_privete=tru"/_>
