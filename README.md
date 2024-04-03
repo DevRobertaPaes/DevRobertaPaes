@@ -4,10 +4,7 @@
 - 👩‍💻 Estudando IA,Photoshop,Figma,UX/UI designer na EBAC- previsão de término 12/2024;
 - 👩‍💻 Estudando e Trabalhando Home-Office;
 - 💄💓Ela/Dela;
-<div>
- <img align="right" width="30%" src="https://github.com/DevRobertaPaes/robertapaes/assets/165825219/f4254125-5099-4ccd-9e58-8c7627273360">
 
-</div>
   
  <div>
  <a href="https://github.com/DevRobertaPaes">
@@ -33,7 +30,12 @@
   <a href="https://www.linkedin.com/in/roberta-paes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     
 </a>
-</a>
+<div>
+ <img align="right" width="30%" src="https://github.com/DevRobertaPaes/robertapaes/assets/165825219/f4254125-5099-4ccd-9e58-8c7627273360">
+
+</div>
+
+<div>
 <img width="100%" src="https://camo.githubusercontent.com/ce26eeddc72e80f3706363df1eedfdeb81905fe41fd9933e4299464ab13faebb/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d384630443837266865696768743d3132302673656374696f6e3d666f6f746572" data-canonical-src="https://capsule-render.vercel.app/api?type=waving&amp;color=8F0D87&amp;height=120&amp;section=footer" style="max-width: 100%;">
 
 
