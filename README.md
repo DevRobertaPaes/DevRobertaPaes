@@ -1,7 +1,7 @@
 ### Olá,👋, Sou Roberta Paes
 - 👩‍🎓🎓Sou formada em Administração pela Faculdade Pitágoras - 06/2021;
 - 💻📴 Estudando Desenvolvimento Full Stack na Faculdade Estácio- previsão de término 12/2025;
-- 👩‍💻 Estudando IA,Photoshop,Figma,UX/UI designer na EBAC- previsão de término 12/2024;
+- 👩‍💻 Estudando pós- IA,Photoshop,Figma,UX/UI designer na EBAC- previsão de término 12/2024;
 - 👩‍💻 Estudando e Trabalhando Home-Office;
 - 💄💓Ela/Dela;
 
