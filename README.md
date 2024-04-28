@@ -1,9 +1,13 @@
 ### Olá,👋, Sou Roberta Paes
 - 👩‍🎓🎓Sou formada em Administração pela Faculdade Pitágoras - 06/2021;
-- 💻📴 Estudando Desenvolvimento Full Stack na Faculdade Estácio- previsão de término 12/2025;
-- 👩‍💻 Estudando pós- IA,Photoshop,Figma,UX/UI designer na EBAC- previsão de término 12/2024;
+- 💻📴 Estudando Desenvolvimento Full Stack na Faculdade Estácio - previsão de término 12/2025;
+- 👩‍💻 Especialização - IA, Photoshop, Figma, UX/UI designer na EBAC - previsão de término 12/2024;
 - 👩‍💻 Estudando e Trabalhando Home-Office;
 - 💄💓Ela/Dela;
+
+  ### Objetivo
+  -🎯💻 Migrar de carreira para a área de tecnologia, ser um case de sucesso e inspiração para outras 
+mulheres migrarem também.
 
   <div>
     <img align="right" width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
