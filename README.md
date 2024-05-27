@@ -5,10 +5,7 @@
 - 👩‍💻 Estudando e Trabalhando Home-Office;
 - 💄💓Ela/Dela;
 
-  ### Objetivo
-  -🎯💻 Migrar de carreira para a área de tecnologia, ser um case de sucesso e inspiração para outras 
-mulheres migrarem também.
-
+  
   <div>
     <img align="right" width="30%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
   </div>
